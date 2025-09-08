@@ -11,3 +11,6 @@ example.com.		299	IN	AAAA	2600:1406:5e00:6::17ce:bc1b
 example.com.		86400	IN	MX	0 .
 
 Nota (editar): TTL alto vs bajo impacta en ...
+Un TTL indica el tiempo de demora de carga en el caché
+Se puede ver que en A y AAAA el TTL es más bajos que en MX
+El TTL en A es de 0 segundos, en AAAA es de 5min aprox. y en MX es de 24h.

@@ -1,7 +1,8 @@
 == TLS via curl -Iv ==
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 23.220.75.232:443...
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 23.220.75.232:443...
 *   Trying 2600:1406:bc00:53::b81e:94ce:443...
 * Immediate connect fail for 2600:1406:bc00:53::b81e:94ce: Network is unreachable
 *   Trying 2600:1408:ec00:36::1736:7f24:443...
@@ -19,3 +20,9 @@
 * ALPN, offering http/1.1
 *  CAfile: /etc/ssl/certs/ca-certificates.crt
 *  CApath: /etc/ssl/certs
+
+Respuesta:
+  Se conexión TLS se realizo con example.com en el puerto 443
+  Se ofrece HTTP2 y HTTP1.1 mediante ALPN
+  Esto indica que por el lado del TLS seguridad, y por el lado HTTP velocidad y rendimiento de navegación web
+  Además se verifico la version del TLS 1.3

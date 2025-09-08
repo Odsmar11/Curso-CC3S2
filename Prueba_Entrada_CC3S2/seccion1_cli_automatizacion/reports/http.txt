@@ -8,3 +8,6 @@ date: Mon, 08 Sep 2025 13:24:55 GMT
 alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
 
 Explicación (editar): Código HTTP X significa ...
+El codigo http 200 significa que la operación fue exitosa
+El cache-control indica que el tiempo de carga al cache tiene una duración de 24h
+El alt-svc indica que soporta http3 en el puerto 443

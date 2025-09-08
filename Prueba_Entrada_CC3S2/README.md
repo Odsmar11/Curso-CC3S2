@@ -21,5 +21,20 @@ Prueba_entrada_CC3S2/
    ├─ network_answers.txt
    └─ deploy_scenario.txt
 ```
-### Sección 1-CLI y Automatización
-![Funcionamiento de make all](./Prueba_Entrada_CC3SS2/images/image1.png)
+## Sección 1-CLI y Automatización
+Se verifica el funcionamiento de make all y con ello se creo los siguientes archivos:
+![Funcionamiento de make all](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image1.png?raw=true)
+![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image2.png?raw=true)
+- En dns.txt se comento sobre TTL.
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image6.png?raw=true)
+- En http.txt se explica el código http.
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image4.png?raw=true)
+- En sockets.txt se explico el rieso de tener innecesariamiente los puertos abiertos
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image5.png?raw=true)
+- En tls.txt se vio la version
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image3.png?raw=true)
+
+El archivo Makefile:
+![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image7.png?raw=true)
+
+## Sección 2- Python + Tests y Git

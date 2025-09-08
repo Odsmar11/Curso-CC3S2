@@ -10,4 +10,5 @@ tcp   LISTEN 0      244         127.0.0.1:5432      0.0.0.0:*
 tcp   LISTEN 0      4096    127.0.0.53%lo:53        0.0.0.0:*          
 tcp   LISTEN 0      511              [::]:80           [::]:*          
 
-Riesgos (editar): Puertos abiertos innecesarios pueden ...
+Riesgos (editar): Puertos abiertos innecesarios pueden dar acceso a personas no autorizadas, esto produciría 
+filtraciones a la red de la base de datos(5432)
