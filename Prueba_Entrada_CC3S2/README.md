@@ -22,9 +22,9 @@ Prueba_entrada_CC3S2/
    └─ deploy_scenario.txt
 ```
 ## Sección 1-CLI y Automatización
-Se verifica el funcionamiento de make all y con ello se creo los siguientes archivos:
-![Funcionamiento de make all](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image1.png?raw=true)
-![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image2.png?raw=true)
+- Se verifica el funcionamiento de make all y con ello se creo los siguientes archivos:
+  ![Funcionamiento de make all](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image1.png?raw=true)
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image2.png?raw=true)
 - En dns.txt se comento sobre TTL.
   ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image6.png?raw=true)
 - En http.txt se explica el código http.
@@ -33,8 +33,9 @@ Se verifica el funcionamiento de make all y con ello se creo los siguientes arch
   ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image5.png?raw=true)
 - En tls.txt se vio la version
   ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image3.png?raw=true)
-
-El archivo Makefile:
-![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image7.png?raw=true)
+- El archivo Makefile: /
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image7.png?raw=true)
 
 ## Sección 2- Python + Tests y Git
+- Se implemento la función summarize en app.py, así como el CLI python -m app "1,2,3"
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image8.png?raw=true)
