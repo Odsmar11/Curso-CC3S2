@@ -1,0 +1,13 @@
+== A ==
+example.com.		0	IN	A	23.220.75.232
+== AAAA ==
+example.com.		299	IN	AAAA	2600:1406:bc00:53::b81e:94c8
+example.com.		299	IN	AAAA	2600:1406:bc00:53::b81e:94ce
+example.com.		299	IN	AAAA	2600:1408:ec00:36::1736:7f24
+example.com.		299	IN	AAAA	2600:1408:ec00:36::1736:7f31
+example.com.		299	IN	AAAA	2600:1406:5e00:6::17ce:bc12
+example.com.		299	IN	AAAA	2600:1406:5e00:6::17ce:bc1b
+== MX ==
+example.com.		86400	IN	MX	0 .
+
+Nota (editar): TTL alto vs bajo impacta en ...
