@@ -1,0 +1,9 @@
+Con el comando dig se muestra los tiempo de cacheo TTL, y los registros DNS para cada dominio
+
+HTTP o HyperText Tranfer Protocolo es un protocolo que permite la comunicacion entre servidores y navegadores web
+Funciona como la forma de cliente-servidor
+Permite la transferencia de datos, como imagenes, videos, documentos, entre otros
+El puerto 80 es el estandar de HTTP, mientras que el puerto 443 es el estandar de HTTPS, lo cual se diferencia del HTTP por 
+la implementación de seguridad
+
+

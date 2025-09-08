@@ -39,3 +39,12 @@ Prueba_entrada_CC3S2/
 ## Sección 2- Python + Tests y Git
 - Se implemento la función summarize en app.py, así como el CLI python -m app "1,2,3"
   ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image8.png?raw=true)
+
+## Sección 3- HTTP/TLS - API
+- Se genero el example.html y el dig_putput.txt
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image9.png?raw=true)
+- Descarga de la respuesta API y extraer el tittle jq
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image10.png?raw=true)
+- El API responde con el header Content-Type: application/json y charset=utf-8 (contenido es json y la codificación es utf=8)
+  ![Make all - Archivos](https://github.com/Odsmar11/Curso-CC3S2/blob/main/Prueba_Entrada_CC3S2/images/image11.png?raw=true)
+- En network_answers.txt se desarrollo algunas preguntas de instrucciones.md
