@@ -32,5 +32,7 @@
 - ¿Qué diferencia hay entre /etc/hosts y una zona DNS autoritativa? ¿Por qué el hosts sirve para laboratorio? Explica en 3–4 líneas.
   En etc/host solo permite el cambio de manera local, y en una zona DNS si se podria para todos los dispositivos de la misma red.
   El host siento que sirve ya que es una manera rápida el cambio de nombres de la ip.
-- 
+## Preguntas DNS:
+- ¿por qué hosts es útil para laboratorio pero no para producción? ¿Cómo influye el TTL en latencia y uso de caché?
+  Host es útil porque permite cambiar el nombre del dominio de manera rápida sin aplicaciones externas. El problema es que solo es de manera local
   
